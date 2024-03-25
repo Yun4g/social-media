@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../Downloads/social-links-profile-main"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "socialmedia project"
+	}
+}
